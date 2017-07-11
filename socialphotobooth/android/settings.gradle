@@ -1,0 +1,3 @@
+rootProject.name = 'socialphotobooth'
+
+include ':app'
